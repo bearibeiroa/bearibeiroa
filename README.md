@@ -9,6 +9,7 @@
    🤝  Busco adquirir conhecimento através de desenvolvimento de projetos pessoais e colaboração em projetos open source
 
 
+
 ## 🛠 Techs & Ferramentas
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -19,7 +20,12 @@
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bearibeiroa&show_icons=true&theme=dracula" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearibeiroa&layout=compact" />
+
+<span>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bearibeiroa&show_icons=true&theme=dracula" /> 
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearibeiroa&layout=compact" />
+</span>
+
 
 ### 💬 Entre em contato
 
