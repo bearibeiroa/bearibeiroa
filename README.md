@@ -19,7 +19,7 @@
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 
-<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=bearibeiroa&show_icons=true&theme=dracula" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearibeiroa&layout=compact" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bearibeiroa&show_icons=true&theme=dracula" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bearibeiroa&layout=compact" />
 
 ### 💬 Entre em contato
 
