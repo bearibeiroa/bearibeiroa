@@ -2,11 +2,11 @@
 
    👋  Me chamo Beatriz Ribeiro, mas pode me chamar de Bea ou Bia
     
-   👩🏾‍💻  Atualmente sou estudante de desenvolvimento web na Trybe
+   👩🏾‍💻  Estou em transição de carreira para TI estudando desenvolvimento web na Trybe
     
-   📚  Estou no módulo de frontend aprendendo ReactJS
+   📚  Estou no módulo de frontend aprendendo ReactJS/ Redux/ Styled Component/ Jest
     
-   🤝  Busco adquirir conhecimento através de desenvolvimento de projetos pessoais e colaboração em projetos open source
+   🤝  Busco adquirir conhecimento através de desenvolvimento de projetos pessoais e profissionais, e também através de colaboração em projetos open source
 
 
 
