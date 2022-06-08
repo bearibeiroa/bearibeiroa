@@ -18,7 +18,8 @@
 <img src="https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=wordpress">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-
+<img src="http://img.shields.io/badge/-Dotnet-blueviolet?style=flat&logo=dotnet&logoColor=white">
+<img src="http://img.shields.io/badge/-CSharp-blue?style=flat&logo=csharp&logoColor=white">
 
 <span>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bearibeiroa&show_icons=true&theme=dracula" /> 
