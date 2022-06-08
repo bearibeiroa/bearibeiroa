@@ -2,15 +2,12 @@
 
    👋  Me chamo Beatriz Ribeiro, mas pode me chamar de Bea ou Bia
     
-   👩🏾‍💻  Estou em transição de carreira para TI estudando desenvolvimento web na Trybe
+   👩🏾‍💻  Sou desenvolvedora full stack na Telefônica Vivo
     
-   📚  Passei pelo módulo de frontend e aprendi ReactJS/ Redux/ Styled Component/ Jest
-   
-   📚  Agora estou no módulo de backend aprendendo Docker/ NodeJS/ Rest API/ POO/ Typescript
-    
+   📚  Sou estudante na Trybe e lá aprendi sobre ReactJS/ Redux/ Styled Component/ Jest / Docker/ NodeJS/ Rest API/ POO/ Typescript   
+      
    🤝  Busco adquirir conhecimento através de desenvolvimento de projetos pessoais e profissionais, e também através de colaboração em projetos open source
-
-
+   
 
 ## 🛠 Techs & Ferramentas
 
