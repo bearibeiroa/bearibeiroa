@@ -4,7 +4,9 @@
     
    👩🏾‍💻  Sou desenvolvedora full stack na Telefônica Vivo onde trabalho com .NET
     
-   📚  Fui estudante na Trybe e lá aprendi sobre ReactJS/ Redux/ Styled Component/ Jest / Docker/ NodeJS/ Rest API/ POO/ Typescript   
+   📚  Fui estudante na Trybe e lá aprendi sobre ReactJS/ Redux/ Styled Component/ Jest / Docker/ NodeJS/ Rest API/ POO/ Typescript  
+
+   📚  Hoje estudo Sistemas de Informação da Estácio
       
    🤝  Busco adquirir conhecimento através de desenvolvimento de projetos pessoais e profissionais, e também através de colaboração em projetos open source
    
